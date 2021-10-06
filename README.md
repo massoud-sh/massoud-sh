@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @massoud-sh
-- 👀 I’m interested in ...
+- 👀 I’m interested in #python#machine learning#AI#deeplearning#blockchain
 - 🌱 I’m currently learning tensorflow2
 - 💞️ I’m looking to collaborate on blockchain projects
 - 📫 reach me at massoud.shemirani@yahoo.com
